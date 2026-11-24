@@ -1,0 +1,6 @@
+ref,file,public,val_macro_f1,description
+58554907,baseline_tfidf_lr.csv,0.86829,0.8841,TF-IDF word 1-3 + LR (50k)
+58557027,stack_mdeb_tfidf_stylo.csv,0.95246,0.9503,LightGBM stack (mDeBERTa windows + TF-IDF full + stylometry)
+58564682,stack_mdeb_xlmr_tfidf_stylo.csv,0.95723,0.9538,"LGB stack: mDeBERTa+XLM-R windows + TF-IDF full + stylometry"
+58612351,stack_mdeb150k_xlmr150k.csv,0.96858,0.967,"LGB stack: mDeBERTa-150k + XLM-R-150k windows + TF-IDF full + stylometry"
+58663512,stack_mdeb150k_xlmrfull.csv,0.97045,0.9681,"LGB stack: mDeBERTa-150k + XLM-R-full windows + TF-IDF full + stylometry"

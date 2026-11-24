@@ -1,0 +1,91 @@
+class,ngram,coef
+human,Dank .,14.152
+human,urlLink,13.548
+human,Dank,12.364
+human,. Vielen,9.942
+human,Vielen,7.932
+human,Vielen Dank,7.632
+human,Herzlichen Dank,7.312
+human,Herzlichen,7.154
+human,. Herzlichen,7.101
+human,will,7.013
+human,STUDENT_NAME,6.923
+human,i,6.366
+human,. Danke,6.136
+human,", STUDENT_NAME",6.132
+human,Danke,6.032
+human,have,5.966
+human,. ’,5.475
+human,In conclusion,5.365
+human,conclusion,5.347
+human,CNN,5.334
+human,This is,5.229
+human,should,5.148
+human,auch,5.101
+human,. ',4.994
+human,said .,4.867
+human,in the,4.779
+human,! !,4.735
+human,CNN ',4.63
+human,noch,4.624
+human,; denn,4.474
+ai,"""",13.165
+ai,!,10.272
+ai,’,9.904
+ai,?,9.014
+ai,’ s,8.45
+ai,significant,6.732
+ai,gotta,6.515
+ai,within,6.339
+ai,’ t,6.191
+ai,legal,6.157
+ai,", I",6.142
+ai,kinda,6.114
+ai,feels,5.785
+ai,This,5.75
+ai,. “,5.734
+ai,super,5.612
+ai,just,5.57
+ai,this,5.48
+ai,", a",5.185
+ai,—,5.092
+ai,like,4.997
+ai,right ?,4.881
+ai,unsere,4.856
+ai,*,4.838
+ai,regarding,4.756
+ai,Like,4.755
+ai,Text,4.718
+ai,"Like ,",4.678
+ai,Let,4.65
+ai,unserer,4.572
+fusion,. …,13.644
+fusion,. and,13.103
+fusion,…,10.059
+fusion,. This,9.656
+fusion,and,8.871
+fusion,me know,8.574
+fusion,Let me,8.396
+fusion,This,7.154
+fusion,crucial,6.498
+fusion,Furthermore,6.415
+fusion,. Furthermore,6.278
+fusion,know if,6.25
+fusion,Herausforderungen,6.076
+fusion,',5.988
+fusion,. .,5.615
+fusion,"Furthermore ,",5.607
+fusion,MISSING,5.486
+fusion,a,5.283
+fusion,We must,5.256
+fusion,Missing,5.196
+fusion,. –,5.131
+fusion,Wir müssen,5.052
+fusion,applicant ',4.946
+fusion,sondern auch,4.92
+fusion,that,4.797
+fusion,nicht nur,4.709
+fusion,! .,4.709
+fusion,emphasized,4.662
+fusion,he,4.609
+fusion,' s,4.559
