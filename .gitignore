@@ -1,0 +1,12 @@
+data/
+models/
+preds/
+submissions/
+logs/
+wandb/
+*.pt
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+SOTA.pdf
+Вступ до NLP — УКУ.pdf
